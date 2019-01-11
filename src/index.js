@@ -1,1 +1,2 @@
-export { default as InputInterceptor } from './InputInterceptor';
+import InputInterceptor from './InputInterceptor';
+export default InputInterceptor;
