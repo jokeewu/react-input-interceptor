@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Input } from 'antd';
-import InputInterceptor from './InputInterceptor';
+import InputInterceptor from 'react-input-interceptor';
 
 class CurrencyInput extends Component {
   handleParse = formatedValue => {
